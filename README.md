@@ -1,4 +1,4 @@
-# 💻 Frontend / PHP Developer passionate about clean UI & performance<br>
+# 💻 PHP Developer passionate about clean UI & performance<br>
 - 🚀 Building dynamic websites using PHP, MySQL & JavaScript<br>
 - 🌱 Exploring React.js and modern frontend frameworks<br>
 - 🤝 Ask me about Web Development, UI Design & Responsive Websites<br>
